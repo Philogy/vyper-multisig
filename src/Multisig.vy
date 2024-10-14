@@ -1,5 +1,5 @@
 #pragma version ^0.4.0
-#pragma optimize codesize
+#pragma optimize gas
 
 from snekmate.utils import eip712_domain_separator
 
